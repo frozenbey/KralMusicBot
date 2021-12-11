@@ -36,7 +36,7 @@ ydl_opts = {
 @Client.on_message(command(["bul", f"bul@{bn}"]) & ~filters.edited)
 def bul(_, message):
     query = " ".join(message.command[1:])
-    m = message.reply("🔎 Aranıyor..")
+    m = message.reply("🔎 Arıyorum.")
     ydl_ops = {"format": "bestaudio[ext=m4a]"}
     try:
         results = YoutubeSearch(query, max_results=1).to_dict()
