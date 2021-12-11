@@ -30,7 +30,7 @@ async def oynat(_, message: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="🇹🇷 RESMİ KANAL", url=f"https://t.me/Sohbetdestek"
+                    text="🇩🇪 RESMİ KANAL", url=f"https://t.me/TeamAlmanSexy"
                 ),
             ]
         ]
