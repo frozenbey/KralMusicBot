@@ -1,3 +1,4 @@
+#ğ
 from pyrogram import Client, errors
 from pyrogram.types import (
     InlineQuery,
