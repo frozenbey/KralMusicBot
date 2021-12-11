@@ -6,16 +6,15 @@ class Messages():
 f"""
 **󠁧󠁢󠁥󠁮󠁧󠁿✨ Müzik botu bilgi paneli✨ \n
 💭 Bildiğiniz gibi, siber müzik telegram sesli sohbet grubu özelliğinde müzik akışı için bir telegram müzik botu projesidir.\n
-💠 Talia müzik projesi 12 Nisan 2020'de kuruldu, Talia olarak bilinen telegram sesli sohbetinde akış, için müzik botu projesi oluşturduk. Talia müzik bot.\n
+💠 KralMüzik olarak bilinen telegram sesli sohbetinde akış, için müzik botu projesi oluşturduk. Kral müzik bot.\n
 🧪 Talia müzik versiyonu:
-❍ ver.6.0
+❍ ver : 1.0
 ❍ beta-version \n
 👩🏻‍💻 developer:
-❍ @Mahoaga
-❍ @raconReis\n
-💬 support chat:
+❍ @FrozenBey
+💬 Söhbet Grub :
 ❍ @sohbetskyfall 
-📣 updates channel:
-❍ @SohnetDestek\n
+📣 GÜNCELLEME DUYURU KANALI:
+❍ @TeamAlmanSexy\n
 """
   ]
