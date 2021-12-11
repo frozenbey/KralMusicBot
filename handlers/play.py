@@ -140,7 +140,7 @@ def updated_stats(chat, queue, vol=100):
         stats = "Ayarlar **{}**".format(chat.title)
         if len(que) > 0:
             stats += "\n\n"
-            stats += "🎚️ Ses: {}%\n".format(vol)
+            stats += "🎶 Ses: {}%\n".format(vol)
             stats += "🎵 Sırada şarkılar: `{}`\n".format(len(que))
             stats += "👨‍💼 Sanatçı ismi: **{}**\n".format(queue[0][0])
             stats += "👤 Talep eden: {}".format(queue[0][1].mention)
@@ -514,7 +514,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("⏏️ Butonlar", callback_data="menü"),
                     InlineKeyboardButton("❌ Kapat", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("🇹🇷 Resmi Kanal", url=f"https://t.me/Sohbetdestek")
+                    InlineKeyboardButton("🇩🇪 Resmi Kanal", url=f"https://t.me/TeamAlmanSexy")
                 ],
             ]
         )
@@ -562,7 +562,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("⏏️ Butonlar", callback_data="menü"),
                     InlineKeyboardButton("⛔ Kapat", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("🇹🇷 Resmi Kanal", url=f"https://t.me/Sohbetdestek")
+                    InlineKeyboardButton("🇩🇪 Resmi Kanal", url=f"https://t.me/TeamAlmanSexy")
                 ],
             ]
         )
@@ -645,7 +645,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("⏏️ Butonlar", callback_data="menü"),
                     InlineKeyboardButton("⛔ Kapat", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("🇹🇷 Resmi Kanal", url=f"https://t.me/Sohbetdestek")
+                    InlineKeyboardButton("🇩🇪 Resmi Kanal", url=f"https://t.me/TeamAlmanSexy")
                 ],
             ]
         )
@@ -744,7 +744,7 @@ async def lol_cb(b, cb):
                     InlineKeyboardButton("⏏️ Butonlar", callback_data="menü"),
                     InlineKeyboardButton("❌ Kapat", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("🇹🇷 Resmi Kanal", url=f"https://t.me/kurtadamoyunuu")
+                    InlineKeyboardButton("🇩🇪 Resmi Kanal", url=f"https://t.me/TeamAlmanSexy")
                 ],
             ]
     )
