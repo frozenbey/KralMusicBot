@@ -33,34 +33,34 @@ async def _human_time_duration(seconds):
 async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>✨ **Merhabalar {message.from_user.first_name}** \n
-🎯 **[Talia Müzik](https://t.me/Sohbetdestek) Telegramın Sesli sohbetinde bana, Müzik çalmam için izin veriniz.**
+🎯 **[Kral Müzik](https://t.me/TeamAlmanSexy) Telegramın Sesli sohbetinde bana, Müzik çalmam için izin veriniz.**
 
 🔮 **Üzerine tıklayarak komutları çalıştırın ve ögreniniz.**
 
 ❓ **Bu botun tüm özellikleri hakkında bilgi almak için, basınız. /help**
 
-🔉 **Sesli sohbetlerde müzik çalmak için, [Talia Resmi Kanal](https://t.me/Sohbetdestek) Tarafından yapılmıştır.**
+🔉 **Sesli sohbetlerde müzik çalmak için, [Kral Resmi Kanal](https://t.me/AlmanTeamSexy) Tarafından yapılmıştır.**
 </b>""",
         reply_markup=InlineKeyboardMarkup(
             [ 
                 [
                     InlineKeyboardButton(
-                        "➕ Beni Grubuna Ekle➕", url=f"https://t.me/Mp3dinleme_Bot?startgroup=true")
+                        "➕ Beni Grubuna Ekle➕", url=f"https://t.me/KralMusicTrBot?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                         "🎯 Tagger Bot", url="https://t.me/UserEtiketBot"
+                         "🎯 Tagger Bot", url="https://t.me/autotagger_bot"
                     ),
                     InlineKeyboardButton(
-                        "🏷️ Resmi Kanal", url=f"https://t.me/Sohbetdestek")
+                        "🏷️ Resmi Kanal", url=f"https://t.me/FrozenBio")
                 ],[
                     InlineKeyboardButton(
-                        "💬 Grubumuz", url=f"https://t.me/sohbetskyfall"
+                        "💬 Grubumuz", url=f"https://t.me/TeamAlmanSexy"
                     ),
                     InlineKeyboardButton(
                         "▶️ Mp3 Botu", url=f"https://t.me/Mp3_aramaBot")               
                  ],[
                     InlineKeyboardButton(
-                        "⛔ Repo Bilgisi", url="https://github.com/Mehmetbaba55"
+                        "🧑‍🔧Sahibim", url="https://t.me/FrozenBey"
                     )
                 ]
             ]
@@ -80,10 +80,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "☢ Grub", url=f"https://t.me/SohbetSkayfall"
+                        "☢ Grub", url=f"https://t.me/TeamAlmanSexy"
                     ),
                     InlineKeyboardButton(
-                        "📣 Kanal", url=f"https://t.me/SohbetDestek"
+                        "📣 Kanal", url=f"https://t.me/FrozenBio"
                     )
                 ]
             ]
@@ -150,15 +150,15 @@ async def help_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "☣ Grub", url=f"https://t.me/Sohbetskyfall"
+                        "☣ Grub", url=f"https://t.me/TeamAlmanSexy"
                     ),
                     InlineKeyboardButton(
-                        "📣 Kanal", url=f"https://t.me/SohbetDestek"
+                        "📣 Kanal", url=f"https://t.me/FrozenBio"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "♞🏻‍ Developer 🇹🇷", url=f"https://t.me/Mahoaga"
+                        "♞🏻‍ Developer 🇩🇪", url=f"https://t.me/FrozenBey"
                     )
                 ]
             ]
