@@ -1,4 +1,5 @@
-# Admins.py (Yönetim) kontrol.. 
+# Admins.py (Yönetim) kontrol..
+#Ğ 
 
 from asyncio import QueueEmpty
 from config import que
