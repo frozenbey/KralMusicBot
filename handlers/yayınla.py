@@ -1,7 +1,7 @@
 # Copyright (C) 2021 By TaliaProject
 # Originally written by Anonim on github
 # Broadcast function
-
+#YAYIN
 
 import asyncio
 
