@@ -71,7 +71,7 @@
 ## Heroku Dağıtımı 💜
 Bu bota ev sahipliği yapmanın kolay yolu, Heroku'ya dağıtın
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mehmetbaba55/Talia-ProMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/frozenbey/KralMusicBot)
 
 ### Aktif Halen Çalışmakta 🤦‍♀️ @SohbetDestek Takip Etmek için ✔️
 
